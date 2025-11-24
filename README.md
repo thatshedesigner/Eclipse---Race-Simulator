@@ -7,7 +7,7 @@ Eclipse Racing Simulator is a web-based project built using React and Tailwind C
 * *Real-time Simulation:* Cars move based on different speed attributes and randomization.
 * *Dynamic Leaderboard:* Tracks position changes and gap times.
 * *Player Stats:* Shows speed (km/h), energy levels, and overtakes.
-* [cite_start]*Controls:* You can Pause the simulation, Speed it up (x2, x4), or Reset the race[cite: 92].
+* *Controls:* You can Pause the simulation, Speed it up (x2, x4), or Reset the race.
 * *Responsive UI:* Built with Tailwind CSS for a clean look.
 
 ## Technologies Used
@@ -21,14 +21,15 @@ Since this project uses a standalone HTML structure with CDNs, you don't need np
 
 1.  Download the Eclipse_Racing_Simulator.html file.
 2.  Make sure you are connected to the internet (to load React and Tailwind scripts).
-3.  [cite_start]Double-click the file to open it in any modern browser (Chrome, Edge, Firefox)[cite: 94].
+3.  Double-click the file to open it in any modern browser (Chrome, Edge, Firefox).
 
 ## Testing
 To test the project:
 1.  Open the file.
 2.  Click the "Play/Pause" button to start.
 3.  Click the "Fast Forward" button to see the cars move faster.
-4.  [cite_start]Wait for 10 laps to finish to see if the loop stops correctly[cite: 95].
+4.  Wait for 10 laps to finish to see if the loop stops correctly.
 
 ## Screenshots
-(Insert screenshot of the track and HUD here)
+<img width="2880" height="1487" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/34dec799-4bc1-4e1b-8730-ca9b8f00fb6f" />
+
